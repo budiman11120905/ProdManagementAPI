@@ -12,3 +12,4 @@
 4. Jalankan migrasi database:
    ```bash
    dotnet ef database update
+![BackEndAPI](images/backend_api.jpg)
