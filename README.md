@@ -1,7 +1,7 @@
 # Product Management API
 
 ## Prerequisites
-- .NET 6.0 SDK
+- .NET 8.0 SDK
 - SQL Server 2014
 - Visual Studio 2022
 
